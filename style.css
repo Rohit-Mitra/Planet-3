@@ -20,3 +20,8 @@ body::before {
     width: 200px;
     height: 200px;
 }
+
+.hpic{
+  height: 55px;
+  width: 55px;
+}
